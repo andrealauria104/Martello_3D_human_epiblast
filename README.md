@@ -1,4 +1,7 @@
-# Structure of the repository
+TGF-beta dynamically controls epithelial identity in a 3D model of human epiblast (https://doi.org/10.1101/2023.12.07.570575)
+
+## Structure of the repository
+
 ```bash
 .
 ├── data
