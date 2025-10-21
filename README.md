@@ -27,6 +27,15 @@ Single-cell RNA-seq analysis of 3D-hE-Gastruloids derived from HES3-MIXL1-GFP li
 * [`scRNAseq_HumanEmbryo/`](scRNAseq_HumanEmbryo/README.md)
 Single-cell RNA-seq analysis of human embryo datasets for comparison and integration with 3D-hE-Gastruloids data.
 
+The table below lists each folder and the corresponding figures in the manuscript.
+
+| Folder            | Figures |
+| ----------------- | ----------- |
+| `public_datasets/`                           | *Fig. 1a—e* |
+| `RNAseq_ZNF398_CRISPRi/`                     | *Fig. 7a—d* |
+| `scRNAseq_3D-hE-Gastruloids_H9/`             | *Fig. 2a—g*, *Ext. Data Fig. 2a—g* |
+| `scRNAseq_3D-hE-Gastruloids_HES3-MIXL1-GFP/` | *Fig. 8e—g*, *Ext. Data Fig. 7a* |
+| `scRNAseq_HumanEmbryo/`                      | *Fig. 2a—g*, *Ext. Data Fig. 1a—b* ,*Ext Data Fig. 2d—f* |
 
 ### Data availability
 
